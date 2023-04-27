@@ -1,7 +1,7 @@
 # Auto File Renamer Program by Eric .V
 Automatically renames files in a folder where the .exe is located, using a random variant of UUIDS.
 
-[2.0] Adds a "Select Folder" function to rename all the files of the specified folder
+[2.0] Adds a "Select Folder" function to rename all the files of the specified folder.
 
 PD: I'm just a junior programmer starting to do my own Python dabbling.
 
